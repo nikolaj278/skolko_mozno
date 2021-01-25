@@ -3,6 +3,7 @@ body {
   }
   h1 {
     color: blue;
+    text-indent: 250px;
   }
   p {
     color: red;
