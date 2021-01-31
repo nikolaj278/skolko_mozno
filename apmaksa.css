@@ -26,40 +26,6 @@ max-width: 880px;
 margin: 0 auto;
 }
 
-.intro
-{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
-    width: 100%;
-    height: 100vh;
-    text-align: center;
-    
-    background: url("../skolko_mozno/footbolka.jpg")
-    center no-repeat;
-    -webkit-background-size: cover;
-    background-size: cover; 
-
-
-}
-
-.intro__inner
-{
-    width: 100%;
-    max-width: 880px;
-    margin: 0;
-    top: 0;
-}
-
-
-
-.intro__suptitle
-{
-    
-
-}
-
 .header
 {
       width: 100%;
@@ -131,15 +97,4 @@ margin: 0 auto;
  .nav__link:hover:after
  {
      opacity: 1;
- }
-
- .h2
- {
-    font-size: 68px;
-    color: black;
-    text-align: center;
-    font-family: 'Kaushan Script', cursive;
-    text-align: center;
-    margin-top: 10%;
-    
  }
