@@ -57,7 +57,8 @@ margin: 0 auto;
     text-transform: uppercase;
     text-align: center;
     line-height: 1;
-    color: black;
+    color: #070606;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .intro__suptitle
@@ -66,6 +67,7 @@ margin: 0 auto;
     color: black;
     text-align: center;
     font-family: 'Kaushan Script', cursive;
+    margin-bottom: 5%;
 
 }
 
@@ -92,6 +94,7 @@ margin: 0 auto;
     font-size: 30px;
     font-weight: 700;
     color: black ;
+    font-family: 'Hachi Maru Pop', cursive;
 }
 
  .nav
@@ -156,14 +159,14 @@ margin: 0 auto;
 
  .section__suptitle
  {
-     font-size: 24px;
+     font-size: 30px;
      font-family: 'Kaushan Script', cursive;
      color: black;
  }
 
  .section__title
  {
-     font-size: 30px;
+     font-size: 40px;
      font-weight: 700;
      color: black;
      text-transform: uppercase;
@@ -173,11 +176,11 @@ margin: 0 auto;
  
  .section__text
  {
-     font-size: 15px;
+     font-size: 25px;
      color: black;
  }
 
  .section-emty
  {
-     margin: 65%;
+     margin: 46%;
  }
